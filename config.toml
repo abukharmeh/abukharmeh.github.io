@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://xiak.co.uk"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+# Add the menu items
+[extra]
+menu = [
+    { name = "Home", url = "/", weight = 1 },
+    { name = "Skills", url = "/skills/", weight = 2 },
+    { name = "CV", url = "https://abukharmeh.files.wordpress.com/2022/01/ibrahim_abukharmeh_cv_22.pdf", weight = 3 },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/ibrahim-abu-kharmeh-06004496", weight = 4 },
+    { name = "Email", url = "mailto:abukharmeh@gmail.com", weight = 5 },
+]
