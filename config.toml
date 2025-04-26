@@ -21,3 +21,6 @@ menu = [
     { name = "LinkedIn", url = "https://www.linkedin.com/in/ibrahim-abu-kharmeh-06004496", weight = 4 },
     { name = "Email", url = "mailto:abukharmeh@gmail.com", weight = 5 },
 ]
+
+# config.toml
+build_output_path = "public"
