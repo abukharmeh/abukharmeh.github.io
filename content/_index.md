@@ -11,8 +11,6 @@ He also evaluated **RISC-V** code and **CHERI on RISC-V** to identify optimizati
 He holds an **Electronics Engineering MSc** from the **University of Southampton**, where he designed a novel **NISC-based processor** for Fast Fourier Transform and a **RISC processor** for Affine Transform.  
 Prior to that, he served as a **HW/SW engineer** at **Gemini 2000 LTD**.
 
-Please refer to the [skills page](/skills) for a complete list.
-
 ---
 
 ## Basic Info
