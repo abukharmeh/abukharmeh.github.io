@@ -1,5 +1,7 @@
 # The URL the site will be built for
 base_url = "https://xiak.co.uk"
+title = "Ibrahim Abu Kharmeh"
+description = "Personal site of Ibrahim Abu Kharmeh, Silicon Design Engineer at AMD."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
