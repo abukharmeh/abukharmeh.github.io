@@ -2,12 +2,9 @@
 title = "Home"
 +++
 
-Ibrahim currently works as a **Silicon Design Engineer** for **AMD** in Cambridge.  
-Previously, he worked on implementing **D-cache controllers** using the **Chisel** language and their models using the **SST framework** in **C++**.  
-He also evaluated **RISC-V** code and **CHERI on RISC-V** to identify optimization opportunities and implemented them in **SystemVerilog**.
+Ibrahim currently works as a **Silicon Design Engineer** for **AMD** in Cambridge. Previously, he worked on implementing **D-cache controllers** using the **Chisel** language and their models using the **SST framework** in **C++**. He also evaluated **RISC-V** code and **CHERI on RISC-V** to identify optimization opportunities and implemented them in **SystemVerilog**.
 
-He holds an **Electronics Engineering MSc** from the **University of Southampton**, where he designed a novel **NISC-based processor** for Fast Fourier Transform and a **RISC processor** for Affine Transform.  
-Prior to that, he served as a **HW/SW engineer** at **Gemini 2000 LTD**.
+He holds an **Electronics Engineering MSc** from the **University of Southampton**, where he designed a novel **NISC-based processor** for Fast Fourier Transform and a **RISC processor** for Affine Transform. Prior to that, he served as a **HW/SW engineer** at **Gemini 2000 LTD**.
 
 ---
 
