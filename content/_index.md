@@ -33,16 +33,10 @@ Please refer to the [skills page](/skills) for a complete list.
 **MSc in Electronics Engineering** (2019–2020)  
 **Thesis Title:** *NISC-based Implementations of FFT on FPGAs*
 
-**First Semester Modules:**
+**Relevant Courses:**
 - Digital System Design (SystemVerilog, ModelSim, Quartus)
-- Digital IC and System Design (Tanner L-Edit)
-- Radio Communication Engineering (Custom 2.45 GHz Half Duplex Transceiver Design)
 - Secure Hardware and Embedded Devices
-
-**Second Semester Modules:**
-- Embedded Processors (Custom RISC Processor for Affine Transformation, SystemVerilog)
 - Digital Systems Synthesis (Custom FFT Core in SystemVerilog, SystemC, Questasim)
-- Wireless and Mobile Networks
 
 ---
 
@@ -51,23 +45,12 @@ Please refer to the [skills page](/skills) for a complete list.
 **BSc in Electrical and Electronics Engineering** (2013–2017)  
 **Thesis Title:** *3D IoT-enabled HID Device*
 
-**Core Courses:**
-- Electrical Circuits I & II (B)
-- Signals and Systems (A)
+**Relevant Courses:**
 - Digital Logic Design (A-)
-- Analog Electronics I & II (C)
-- Communication and Reporting (A)
 - Programming for Engineers (B)
-- System Modeling and Control (A-)
-- Electromagnetics (A-)
-- Instrumentation and Measurement (A)
-- DSP (A)
 - Algorithms and Data Structures (A)
 - Parallel Computing (A-)
-- PLC (A)
-- Introduction to Communication Systems (B)
 
-**Note:** Complete transcript available upon request.  
 **Total CGPA:** 9.06/10
 
 ---
@@ -76,11 +59,7 @@ Please refer to the [skills page](/skills) for a complete list.
 
 **Erasmus Exchange Student**
 
-**Courses Taken:**
+**Relevant Courses:**
 - Computer Architecture (B)
 - Microprocessor (A)
-- Introduction to Robotics (B)
-- Control System Lab (A)
-- Introduction to Business (A)
-- Numerical Methods (B)
 
