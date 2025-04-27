@@ -2,8 +2,6 @@
 title = "Home"
 +++
 
-# Ibrahim Abu Kharmeh
-
 Ibrahim currently works as a **Silicon Design Engineer** for **AMD** in Cambridge.  
 Previously, he worked on implementing **D-cache controllers** using the **Chisel** language and their models using the **SST framework** in **C++**.  
 He also evaluated **RISC-V** code and **CHERI on RISC-V** to identify optimization opportunities and implemented them in **SystemVerilog**.

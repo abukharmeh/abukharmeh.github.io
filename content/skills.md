@@ -2,8 +2,6 @@
 title = "Skills"
 +++
 
-# Skills
-
 ## Digital Design & Verification
 
 - SystemVerilog

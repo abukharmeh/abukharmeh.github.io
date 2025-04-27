@@ -7,6 +7,9 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ config.description }}{% endif %}">
     <link rel="stylesheet" href="/style.css">
 </head>
+<header>
+  <h1>{{ config.title }}</h1>
+</header>
 <body>
     <nav>
         {% for item in config.extra.menu %}
